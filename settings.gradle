@@ -1,0 +1,3 @@
+include ':clipper'
+
+rootProject.name = "Application"
